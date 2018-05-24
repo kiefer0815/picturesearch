@@ -13,6 +13,7 @@ public class Constants {
         public static final String BannerPosID = "1070237304873915";
         public static final String InterteristalPosID = "1020635364286546";
         public static final String InterteristalPosID1 = "8060437364875976";
+        public static final String InterteristalPosID2 = "6010834493808667";
         public static final String NativeExpressPosID = "4060134394470957";
         public static final String NativeExpressPosID2 = "8050632354675939";
         public static final String NativeExpressPosID3 = "2060338334274978";
